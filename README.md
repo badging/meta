@@ -21,7 +21,7 @@ Four statuses exist for the Diversity and Inclusion Badging Program:
 
 | Level        | Badge
 |--------------|---------------------------------------------------
-| Not Passing  | <img src=assets/badges/nopass.png height=18 />
+| Not Passing  | <img src=assets/badges/panding.png height=18 />
 | Passing      | <img src=assets/badges/passing.png height=18 />
 | Silver       | <img src=assets/badges/silver.png height=18 />
 | Gold         | <img src=assets/badges/gold.png height=18 />
