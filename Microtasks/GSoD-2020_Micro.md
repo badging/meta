@@ -36,5 +36,10 @@ Reference:
 
 `Q 1` Review a mock event created by someone else.
 
-If available, take the time to review an event that someone else has posted. If no fake events have been posted yet, put `N/A` here and post it when a mock submission is available.
+If available, take the time to review an event that someone else has posted. If no fake events have been posted yet for this session, use one of the mock events from this year's Google Summer of Code application session:
+
+  - https://github.com/badging/event-diversity-and-inclusion/pull/1
+  - https://github.com/badging/diversity-and-inclusion/pull/2
+  
+These are great mock events, but we recommend using a fake event submitted for GSoD, if available.
 
